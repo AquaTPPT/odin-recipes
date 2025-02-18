@@ -4,3 +4,29 @@
     width:min-content;
     height: min-content;
 }
+
+.contents1 {
+
+    border: 5px;
+    border-style:double;
+    border-color: brown;
+    border-radius: 3px;
+    background-color: rgb(236, 236, 171);
+}
+
+/* Navbar stuff */
+
+.nav {
+
+    
+}
+.nav .navmain {
+
+    display:flex;
+    justify-content:space-around;
+    list-style-type: none;
+    background-color: brown;
+    border-style: double;
+    padding-right: 20px;
+}
+
